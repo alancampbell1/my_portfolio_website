@@ -1,0 +1,1 @@
+To start SCSS in the terminal go: npm run sass
